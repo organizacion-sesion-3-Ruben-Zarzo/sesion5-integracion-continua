@@ -3,3 +3,6 @@ def suma(x,y):
 
     # El alumno deberá implementar correctamente el código de la función para pasar el test correspondiente
     return x + y
+    
+def isPar(x)
+    return x%2==0
