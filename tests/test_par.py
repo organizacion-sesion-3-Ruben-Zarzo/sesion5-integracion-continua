@@ -9,7 +9,7 @@ class TestClass:
 
     # Test para la operación suma
     def test_isPar(self):
-        assert isPar(1) == false
-        assert isPar(2) == true
-        assert isPar(23) == false
-        assert isPar(42) == true 
+        assert isPar(1) == False
+        assert isPar(2) == True
+        assert isPar(23) == False
+        assert isPar(42) == True 
