@@ -12,4 +12,4 @@ class TestClass:
         assert isPar(1) == false
         assert isPar(2) == true
         assert isPar(23) == false
-        assert isPar(42) == true
+        assert isPar(42) == true 
